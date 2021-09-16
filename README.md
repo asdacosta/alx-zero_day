@@ -1,3 +1,4 @@
-**ALX Zero Day PROJECT**
-* A repo for public
-* First Project of ALX
+# ALX Zero Day PROJECT
+* Second repository of a project from ALX
+* We will dive more into git.
+
